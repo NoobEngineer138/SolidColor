@@ -1,6 +1,6 @@
 # SolidColor
 Solid Color：Explore the Aesthetics of Color
-website: https://solidColor.io
+website: https://solidcolor.io
 Welcome to Solid Color, your digital color expert. Solid Color is dedicated to providing you with a simple and comprehensive platform for downloading solid color desktop wallpapers. At Solid Color, we believe that color is not just a visual filler, but an expression of emotion, a display of personality. Whether you are a designer looking for inspiration or a user wanting to add a unique touch of color to your device, Solid Color is your ideal choice.
 
 Color Series Recommendations
